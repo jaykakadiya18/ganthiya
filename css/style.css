@@ -2825,18 +2825,8 @@ color: #fff;
 	z-index: 2;
 	position: relative;
 }
-.offer-div-main{
-	background: #07060b url(../images/bg-oofer.png) no-repeat;
-	
-	display: grid;
-	align-content: center;
-    border-radius:0;
-	padding:30px 0;
-	margin-top: 80px;
-	position: relative;
 
-}
-.offer-div-main:before,
+
 .testimonal-div:before,
 .salad-menu-div:before,
 .about-history-mn::before,
@@ -2905,7 +2895,7 @@ color: #fff;
 
 	margin-bottom: 30px;
 }
-.offer-div-main:after,
+
 .testimonal-div:after,
 .book-atbs-div:after,
 .comboo-offer:after,
@@ -2926,21 +2916,10 @@ color: #fff;
 	width: 100%;
 	padding: 100px 0;
 }
-.offer-div-main figure img{
-	transform: scale(1);
-	transition: all 0.5s;
-}
-.offer-div-main:hover img{
-	transform: scale(1.05);
-}
-.offer-div-main .row{
-	align-items: center;
-}
-.offer-div-main h6{
-	color: #fff;
-	font-family: 'Architects Daughter', cursive;
-	font-size: 30px;
-}
+
+
+
+
 .testimonal-div{
 	margin-top: 150px;
 	display: inline-block;
@@ -2950,25 +2929,9 @@ color: #fff;
 	background: #febd2f;
 	padding: 100px 0;
 }
-.offer-div-main p{
-	color: #5e5e5e;
-	font-size: 14px;
-}
-.offer-div-main h5{
-	color: #fff;
-	font-size: 18px;
-	font-family: 'Montserrat', sans-serif;
-}
-.offer-div-main h5 span{
-	color: #febd2f;
-	margin-top: 5px;
-}
-.offer-div-main h2{
-	color: #fff;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 700;
-	font-size: 45px;
-}
+
+
+
 .testmonial-slide{
 	
 		width: 70%;
@@ -3912,7 +3875,7 @@ footer .row > div:nth-child(4) .comon-footer{
 	 text-align: left;
 }
 .speacila-tabs-menu .tabs-menu-1 .each-items{
-	height:360px;
+	height:auto;
 }
 .offcanvas-body .nav-link {
 	color: #323657;
@@ -3956,9 +3919,7 @@ footer .row > div:nth-child(4) .comon-footer{
 
 
 @media (min-width: 1890px){
-	.offer-div-main{
-		margin-top: 50px;
-	}
+
 	.slide-2,
 	.slide-1,
 	.slide-3{
@@ -4056,10 +4017,7 @@ footer .row > div:nth-child(4) .comon-footer{
 	}
 }
 @media (max-width: 1024px){
-	.offer-div-main{
-		margin-top: 80px;
-		padding: 80px 0;
-	}
+
 	.top-head .nav-link{
 		padding-left: 9px !important;
         padding-right: 9px !important;
@@ -4289,13 +4247,8 @@ footer .row > div:nth-child(4) .comon-footer{
 	.comon-abut-sec p{
 		width: 81%;
 	}
-	.offer-div-main{
-		margin-top: 70px;
-		padding: 80px 0;
-	}
-	.offer-div-main h2{
-		font-size: 35px;
-	}
+
+	
 	.floow-us a{
 		width: 100%;
 	}
@@ -4475,17 +4428,9 @@ footer .row > div:nth-child(4) .comon-footer{
 	.dishes-bn1{
 		margin-top: 65px;
 	}
-	.offer-div-main h2{
-		font-size: 31px;
-	}
-	.offer-div-main{
-		padding: 90px 0;
-		margin-top: 80px;
-	}
-	.offer-div-main .row{
-		flex-direction: column-reverse;
-		text-align: center;
-	}
+
+
+
 	.combo-del{
 		padding: 30px 13px 21px;
 	}
